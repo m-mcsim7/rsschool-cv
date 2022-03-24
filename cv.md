@@ -25,3 +25,12 @@ function vowelOne(s){
 }
 ```
 ---
+## Education and courses
+1. CS50 video course
+2. JS, CSS, HTML, Git video courses on YouTube 
+3. JavaScript https://learn.javascript.ru/
+4. SkillBox Frontend-разработчик PRO
+
+---
+
+
