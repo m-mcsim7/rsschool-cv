@@ -32,5 +32,9 @@ function vowelOne(s){
 4. SkillBox Frontend-разработчик PRO
 
 ---
+## Language:
+- English - Elementary 
+- Polish  - Elementary 
+- Russian - Native
 
 
